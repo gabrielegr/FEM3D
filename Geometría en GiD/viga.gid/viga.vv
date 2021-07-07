@@ -1,0 +1,37 @@
+BeginZE C:/Program Files/GiD/GiD 15.0.3/viga.gid/viga.vv
+   x -8.27529048919677734 18.2752914428710938
+   y 6.02770853042602539 -5.02770853042602539
+   z -16.8331241607666016 16.3331241607666016
+   e 5.52770805358886719
+   v -0.276218668782719778 0.804566565025690239 -0.509274937849166554
+   r 0.13044154398123467
+   m -0.813376665115356445 -0.311611384153366089 0.49124029278755188 0 -0.577333807945251465 0.328684568405151367 -0.747430384159088135 0 0.071444682776927948 -0.891551971435546875 -0.447248220443725586 0 0 0 0 1
+   c 5 0.5 0.25
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 1
+   DrawingType 0
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 1
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE C:/Program Files/GiD/GiD 15.0.3/viga.gid/viga.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+
